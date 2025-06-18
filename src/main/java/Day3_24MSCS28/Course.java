@@ -8,3 +8,4 @@ public class Course {
                 .append("credits", credits);
     }
 }
+
