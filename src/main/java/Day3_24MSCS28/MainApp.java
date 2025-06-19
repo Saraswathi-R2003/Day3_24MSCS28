@@ -32,7 +32,7 @@ public class MainApp {
 
         System.out.println("Both embedded and referenced enrollments have been inserted.\n");
 
-        // ✅ Print Enrollments clearly
+        // Print Enrollments clearly
         MongoCollection<Document> enrollments = db.getCollection("enrollments");
 
         System.out.println("--- Enrollments Collection ---");
