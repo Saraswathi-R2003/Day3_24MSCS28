@@ -99,30 +99,33 @@ MongoDB must be running on your system (default: `localhost:27017`).
 
 Screenshots from MongoDB Compass
 
-#### 📘 Students Collection
+#### Courses Collection
 
 
-![Students](src/main/java/Day3_Application/img/studentss.png)
-
----
-
-#### 📗 Courses Collection
-
-![Courses](src/main/java/Day3_Application/img/course.png)
+![Students](src/main/java/Day3_24MSCS28/Img/Screenshot 2025-06-18 162055.png
+)
 
 ---
 
-#### 📕 Enrollments Collection (Embedded vs Referenced)
+#### Students Collection
 
-
-![Enrollments](src/main/java/Day3_Application/img/enrollment.png)
+![Courses](src/main/java/Day3_24MSCS28/Img/Screenshot 2025-06-18 162108.png
+)
 
 ---
 
-#### 📕 Mongodb Output
+#### Enrollments Collection (Embedded vs Referenced)
 
 
-![Mongodb](src/main/java/Day3_Application/img/mongodbss1.png)
+![Enrollments](src/main/java/Day3_24MSCS28/Img/Screenshot 2025-06-18 162102.png
+)
+
+---
+
+#### MinApp Output [Console]
+
+
+![Mongodb](src/main/java/Day3_24MSCS28/Img/Screenshot 2025-06-19 100032.png)
  
 ---
 
