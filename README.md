@@ -155,7 +155,7 @@ Day3-Task/
 └── screenshots/
 ```
 
-Author
+##  Author
 **Name**: Saraswathi R
 
 **Registration Number**: 24MSCS28
