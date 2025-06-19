@@ -154,3 +154,9 @@ Day3-Task/
 ├── README.md
 └── screenshots/
 ```
+
+Author
+**Name**: Saraswathi R
+
+**Registration Number**: 24MSCS28
+
